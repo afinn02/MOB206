@@ -1,0 +1,4 @@
+The correlation coefficient for walkability and decreased obesity rates: -0.08739846406637168
+Line of best fit: y = -0.04258621385981296x + 33.520529301452804
+The correlation coefficient for bike-ability and decreased obesity rates: -0.27546416546686575
+Line of best fit: y = -0.17972147535382624x + 40.78599626889873
